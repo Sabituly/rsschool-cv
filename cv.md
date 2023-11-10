@@ -2,11 +2,7 @@
 
 # Tashim Daniyar
 
-![My photo][1]
-
-[1]:
-https://media.licdn.com/dms/image/D4D03AQHwryu84T_bmQ/profile-displayphoto-shrink_800_800/0/1677234928836?e=1704931200&v=beta&t=ghbX_crlcytGhcmJoSCd4i8C5lwW65Gy5aoRljM6mK0
-"My photo"
+![image](https://github.com/Sabituly/rsschool-cv/assets/83028614/bbcdaa8d-4b8c-4813-a217-4b9273f3418f)
 
 ----
 ### Junior Frontend Developer 
@@ -78,6 +74,6 @@ function enough(cap, on, wait) {
 
 **Languages:**
 
-- English - Intermediate
-- Russian - Native speaker
-- Qazaq - Native speaker
+1. Qazaq - Native speaker 
+2. English - Intermediate 
+3. Russian - Native speaker
